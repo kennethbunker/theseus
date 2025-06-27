@@ -11,7 +11,7 @@
 # chapter         : Chapter 5: The paradox of progress
 # chapter doi     : 
 # data doi        : https://doi.org/10.7910/DVN/UNM2S7
-# script          :   
+# script          : https://github.com/kennethbunker/theseus  
 #
 ###################################################
 
