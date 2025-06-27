@@ -8,10 +8,10 @@
 # hardcover ISBN  : 978-3-031-96462-6
 # eBook ISBN      : 978-3-031-96463-3 
 # softcover ISBN  : 978-3-031-96465-7
-# chapter         : Chapter 5: The paradox of progress
+# chapter         : Chapter 16: The second constitutional council
 # chapter doi     : 
-# data doi        : https://doi.org/10.7910/DVN/UNM2S7
-# script          :   
+# data doi        : https://doi.org/10.7910/DVN/S6243I
+# script          : https://github.com/kennethbunker/theseus/chapter 5                     
 #
 ###################################################
 
